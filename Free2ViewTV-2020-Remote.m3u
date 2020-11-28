@@ -801,8 +801,17 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Canadian TV",CPAC | Floor
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680603/1242843915001_2/master.m3u8
+
 #EXTINF:-1 tvg-id="I143.16133.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="Quebec TV",Assemblee Nationale du QC
-http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
+http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8?checkedby:hlscat.com
+#http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I1123.66001.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/66001/s66001_h3_aa.png?w=55" group-title="Quebec TV",Evasion
+http://greenstreamtv.xyz:25461/17297267/39234816/7988?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="I1423.48099.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48099/s48099_h3_aa.png?w=55" group-title="Quebec TV",Fight Network
+http://greenstreamtv.xyz:25461/17297267/39234816/7871?checkedby:hlscat.com
+
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EWTN_450x450.png?raw=true" group-title="Canadian TV",EWTN Canada (Faith)
 http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AmazingDiscoveries_430x430.png?raw=true" group-title="Canadian TV",Amazing Discoveries (Faith)
