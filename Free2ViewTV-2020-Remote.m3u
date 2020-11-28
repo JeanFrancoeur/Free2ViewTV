@@ -767,7 +767,7 @@ https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/61500
 #EXTINF:-1 tvg-id="I1102.73109.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="Quebec TV",noovo
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
-#EXTINF:-1 tvg-id="I208.105401.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ICI-Television_292x292.png?raw=true" group-title="Canadian TV",ICI Television
+#EXTINF:-1 tvg-id="I208.105401.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ICI-Television_292x292.png?raw=true" group-title="Quebec TV",ICI Television
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="Canadian TV",Canal Savoir
