@@ -807,7 +807,37 @@ http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8?checkedby:hlscat.
 #http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I1123.66001.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/66001/s66001_h3_aa.png?w=55" group-title="Quebec TV",Evasion
-http://greenstreamtv.xyz:25461/17297267/39234816/7988?checkedby:hlscat.com
+http://rv.therevenge.co:80/691616211141151/691616211141151/83246?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="I1124.56163.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56163/s56163_h3_aa.png?w=55" group-title="Quebec TV",Historia
+http://greenstreamtv.xyz:25461/17297267/39234816/7989?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="I1137.56105.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56105/s56105_h3_aa.png?w=55" group-title="Quebec TV",Canal Vie
+http://rv.therevenge.co:80/691616211141151/691616211141151/83370?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="I1130.69466.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56105/s56105_h3_aa.png?w=55" group-title="Quebec TV",Elle Fictions
+http://rv.therevenge.co:80/691616211141151/691616211141151/83365?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="I1133.61443.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61443/s61443_h3_aa.png?w=55" group-title="Quebec TV",ARTV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83358?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="I1138.72006.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72006/s72006_h3_aa.png?w=55" group-title="Quebec TV",Moi&Cie
+http://rv.therevenge.co:80/691616211141151/691616211141151/81348?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="I1109.73275.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/73275/s73275_h3_aa.png?w=55" group-title="Quebec TV",RDS 2
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81329?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="I1122.56109.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56109/s56109_h3_aa.png?w=55" group-title="Quebec TV",Series+
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83333?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="I1122.56109.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/53091/s53091_h3_aa.png?w=55" group-title="Quebec TV",Super Ecran 1
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81317?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="I1122.56109.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56159/s56159_h3_aa.png?w=55" group-title="Quebec TV",VRAK
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83231?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="I1136.67429.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67429/s67429_h3_aa.png?w=55" group-title="Quebec TV",Zeste
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83306?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="I1423.48099.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48099/s48099_h3_aa.png?w=55" group-title="Quebec TV",Fight Network
 http://greenstreamtv.xyz:25461/17297267/39234816/7871?checkedby:hlscat.com
@@ -2210,8 +2240,10 @@ https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/87
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BFM-Lyon_225x225.png?raw=true" group-title="Francophone TV",France | BFM TV. Lyon
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_855x855.png?raw=true" group-title="Francophone TV",France | TV5 Monde Info
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_855x855.png?raw=true" group-title="Quebec TV",France | TV5 Monde Info
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_Pacific_200x200.png?raw=true" group-title="Francophone TV",TV5 Monde Pacific | Eng subs
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8
 
