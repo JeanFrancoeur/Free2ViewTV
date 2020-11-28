@@ -814,7 +814,7 @@ http://greenstreamtv.xyz:25461/17297267/39234816/7989?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="I1137.56105.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56105/s56105_h3_aa.png?w=55" group-title="Quebec TV",Canal Vie
 http://rv.therevenge.co:80/691616211141151/691616211141151/83370?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-id="I1130.69466.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56105/s56105_h3_aa.png?w=55" group-title="Quebec TV",Elle Fictions
+#EXTINF:-1 tvg-id="I1130.69466.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/69466/s69466_h3_aa.png?w=55" group-title="Quebec TV",Elle Fictions
 http://rv.therevenge.co:80/691616211141151/691616211141151/83365?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="I1133.61443.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61443/s61443_h3_aa.png?w=55" group-title="Quebec TV",ARTV
@@ -2240,7 +2240,7 @@ https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BFM-Lyon_225x225.png?raw=true" group-title="Francophone TV",France | BFM TV. Lyon
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_855x855.png?raw=true" group-title="Quebec TV",France | TV5 Monde Info
+#EXTINF:-1 tvg-id="I1134.70104.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_855x855.png?raw=true" group-title="Quebec TV",France | TV5 Monde Info
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_Pacific_200x200.png?raw=true" group-title="Francophone TV",TV5 Monde Pacific | Eng subs
