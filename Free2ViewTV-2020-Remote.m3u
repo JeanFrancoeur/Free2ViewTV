@@ -804,7 +804,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680603/1242843915001_2/master.m3
 
 #EXTINF:-1 tvg-id="I143.16133.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="Quebec TV",Assemblee Nationale du QC
 http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8?checkedby:hlscat.com
-#http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I1123.66001.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/66001/s66001_h3_aa.png?w=55" group-title="Quebec TV",Evasion
 http://rv.therevenge.co:80/691616211141151/691616211141151/83246?checkedby:hlscat.com
