@@ -755,6 +755,9 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 #EXTINF:-1 tvg-id="I1101.49584.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Quebec TV",ICI Tele (Montreal)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 
+#EXTINF:-1 tvg-id="I1101.49584.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Quebec TV",ICI Tele (Quebec)
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
+
 #EXTINF:-1 tvg-id="I1103.72752.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png?raw=true" group-title="Quebec TV",TVA (Geo)
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 
@@ -770,8 +773,11 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-id="I208.105401.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ICI-Television_292x292.png?raw=true" group-title="Quebec TV",ICI Television
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
-#EXTINF:-1 rvg-id="I622.74875.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="Quebec TV",Canal Savoir
+#EXTINF:-1 tvg-id="I1147.74875.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="Quebec TV",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="I1120.66003.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/66003/s66003_h3_aa.png?w=55" group-title="Quebec TV",addik TV
+http://rv.therevenge.co:80/691616211141151/691616211141151/83376?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KnowledgeNetwork_235x235.png?raw=true" group-title="Canadian TV",Knowledge Network (Geo)
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
