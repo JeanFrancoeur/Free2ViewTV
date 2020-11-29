@@ -805,9 +805,6 @@ http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8?checkedby:hlscat.
 #EXTINF:-1 tvg-id="I1123.66001.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/66001/s66001_h3_aa.png?w=55" group-title="Quebec TV",Evasion
 http://rv.therevenge.co:80/691616211141151/691616211141151/83246?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-id="I1124.56163.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56163/s56163_h3_aa.png?w=55" group-title="Quebec TV",Historia
-http://greenstreamtv.xyz:25461/17297267/39234816/7989?checkedby:hlscat.com
-
 #EXTINF:-1 tvg-id="I1137.56105.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56105/s56105_h3_aa.png?w=55" group-title="Quebec TV",Canal Vie
 http://rv.therevenge.co:80/691616211141151/691616211141151/83370?checkedby:hlscat.com
 
@@ -835,20 +832,32 @@ http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83231?checkedby:hlsca
 #EXTINF:-1 tvg-id="I1136.67429.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67429/s67429_h3_aa.png?w=55" group-title="Quebec TV",Zeste
 http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83306?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67429/s67429_h3_aa.png?w=55" group-title="Quebec TV",Discovery Family
-http://rv.therevenge.co:80/691616211141151/691616211141151/78345?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67429/s67429_h3_aa.png?w=55" group-title="Quebec TV",TF1
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67429/s67429_h3_aa.png?w=55" group-title="Quebec TV",TF1 Films
-http://rv.therevenge.co:80/0555141902/3893970296/79123?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67429/s67429_h3_aa.png?w=55" group-title="Quebec TV",France 2
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/78812?checkedby:hlscat.com
-
 #EXTINF:-1 tvg-id="I1125.56161.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56161/s56161_h3_aa.png?w=55" group-title="Quebec TV",Canal D
 http:\\rv.therevenge.co:80\uC51d0zVwRoVMIN\5ODtKSZavorYoRx\81410?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.discoveryfamilychannel.com/" group-title="Quebec TV",Discovery Family
+http://rv.therevenge.co:80/691616211141151/691616211141151/78345?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tf1.fr/public/2.13.7/a074cc4cf18f1b4d775f6a77e18c9040.svg" group-title="Quebec TV",TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tf1.fr/public/2.13.7/29b93ecef112940af6bc90e2f38d7726.svg" group-title="Quebec TV",TF1 Films
+http://rv.therevenge.co:80/0555141902/3893970296/79123?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.france.tv/images/logos/channels/france-2.svg?v=1" group-title="Quebec TV",France 2
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/78812?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="I1134.70104.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_855x855.png?raw=true" group-title="Quebec TV",France | TV5 Monde Info
+https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-country="UNSORTED" tvg-url="" group-title="Quebec TV",France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="I1134.70104.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_Style_225x225.png?raw=true" group-title="Quebec TV",TV5 Monde Style | Eng subs
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/master.m3u8
+
+#EXTINF:-1 tvg-id="I1124.56163.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56163/s56163_h3_aa.png?w=55" group-title="Quebec TV",Historia
+http://greenstreamtv.xyz:25461/17297267/39234816/7989?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="I1423.48099.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48099/s48099_h3_aa.png?w=55" group-title="Quebec TV",Fight Network
 http://greenstreamtv.xyz:25461/17297267/39234816/7871?checkedby:hlscat.com
@@ -2255,17 +2264,8 @@ https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BFM-Lyon_225x225.png?raw=true" group-title="Francophone TV",France | BFM TV. Lyon
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
 
-#EXTINF:-1 tvg-id="I1134.70104.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_855x855.png?raw=true" group-title="Quebec TV",France | TV5 Monde Info
-https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-country="UNSORTED" tvg-url="" group-title="Quebec TV",France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_Pacific_200x200.png?raw=true" group-title="Francophone TV",TV5 Monde Pacific | Eng subs
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8
-
-#EXTINF:-1 tvg-id="I1134.70104.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_Style_225x225.png?raw=true" group-title="Quebec TV",TV5 Monde Style | Eng subs
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/D5TV_246x246.png?raw=true" group-title="Francophone TV",France | D5 TV
 http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
