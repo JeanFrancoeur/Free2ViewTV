@@ -835,6 +835,21 @@ http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83231?checkedby:hlsca
 #EXTINF:-1 tvg-id="I1136.67429.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67429/s67429_h3_aa.png?w=55" group-title="Quebec TV",Zeste
 http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83306?checkedby:hlscat.com
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67429/s67429_h3_aa.png?w=55" group-title="Quebec TV",Discovery Family
+http://rv.therevenge.co:80/691616211141151/691616211141151/78345?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67429/s67429_h3_aa.png?w=55" group-title="Quebec TV",TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67429/s67429_h3_aa.png?w=55" group-title="Quebec TV",TF1 Films
+http://rv.therevenge.co:80/0555141902/3893970296/79123?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67429/s67429_h3_aa.png?w=55" group-title="Quebec TV",France 2
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/78812?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="I1125.56161.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56161/s56161_h3_aa.png?w=55" group-title="Quebec TV",Canal D
+http:\\rv.therevenge.co:80\uC51d0zVwRoVMIN\5ODtKSZavorYoRx\81410?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-id="I1423.48099.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48099/s48099_h3_aa.png?w=55" group-title="Quebec TV",Fight Network
 http://greenstreamtv.xyz:25461/17297267/39234816/7871?checkedby:hlscat.com
 
